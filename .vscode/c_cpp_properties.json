@@ -3,14 +3,14 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
-                "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Redist\\MSVC"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
-            ]
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe"
         }
     ],
     "version": 4
